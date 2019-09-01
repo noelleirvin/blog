@@ -1,7 +1,7 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import App from './App';
 import enzyme from 'enzyme';
+import { Read } from './read/Read';
 
 describe('App test', () => {
 
@@ -13,7 +13,17 @@ describe('App test', () => {
   it('renders header', () => {
     const wrapper = enzyme.shallow(<App />);
     expect(wrapper.find('header'))
-      .toContainEqual(<header>Mitch's Blog</header>);
+      .toContainEqual(<header className="App-header">Mitch's Blog</header>);
   });
+
+  it('renders Read component', () => {
+    const wrapper = enzyme.shallow(<App />);
+    expect(wrapper.find(Read)).toHaveLength(1);
+  });
+
+  // it('renders Post component', () => {
+  //   const wrapper = enzyme.shallow(<App />);
+  //   expect(wrapper.find(Post)).toHaveLength(1);
+  // });
 
 });

@@ -1,11 +1,11 @@
 import React from 'react';
 import enzyme from 'enzyme';
 import { Read } from './Read';
-import { Post } from '../types/Post'
+import { PostType } from '../types/PostType'
 
 describe('Read test', () => {
 
-    const post: Post = {
+    const post: PostType = {
         title: 'Title',
         date: 'August 31st, 2019',
         body: 'Lorem ipsum...'

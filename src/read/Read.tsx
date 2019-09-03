@@ -1,8 +1,8 @@
 import React from 'react';
-import { Post } from '../types/Post';
+import { PostType } from '../types/PostType';
 
 interface Props {
-    post: Post
+    post: PostType;
 }
 
 function Read (props: Props) {

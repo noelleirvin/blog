@@ -2,6 +2,7 @@ import React from 'react';
 import App from './App';
 import enzyme from 'enzyme';
 import { Read } from './read/Read';
+import { Posts } from './posts/Posts';
 
 describe('App test', () => {
 
@@ -21,9 +22,9 @@ describe('App test', () => {
     expect(wrapper.find(Read)).toHaveLength(1);
   });
 
-  // it('renders Post component', () => {
-  //   const wrapper = enzyme.shallow(<App />);
-  //   expect(wrapper.find(Post)).toHaveLength(1);
-  // });
+  it('renders Posts component', () => {
+    const wrapper = enzyme.shallow(<App />);
+    expect(wrapper.find(Posts)).toHaveLength(1);
+  });
 
 });

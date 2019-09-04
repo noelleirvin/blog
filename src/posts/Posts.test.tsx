@@ -8,12 +8,12 @@ describe('Posts test', () => {
     const posts = [
         {
             title: 'Title1',
-            date: 'August 31st, 2019',
+            date: new Date('December 17, 1995'),
             body: 'Lorem ipsum...'
         },
         {
             title: 'Title2',
-            date: 'September 23rd, 2017',
+            date: new Date('March 12, 1995'),
             body: 'Best day...'
         }
     ];

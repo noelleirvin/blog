@@ -7,14 +7,16 @@ describe('Post test', () => {
 
     const post: PostType = {
         title: 'Title',
-        date: 'August 31st, 2019',
+        date: new Date('December 17, 1995'),
         body: 'Lorem ipsum...'
     };
 
-    it('renders something', () => {
+    it('renders title and date', () => {
         const wrapper = enzyme.shallow(<Post post={post} />);
-        expect(wrapper.find('h3').at(0).text())
+        expect(wrapper.find('.title').at(0).text())
             .toEqual(post.title);
+        expect(wrapper.find('.date').at(0).text())
+            .toEqual(post.date);
     });
 
 });

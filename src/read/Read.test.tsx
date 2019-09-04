@@ -7,7 +7,7 @@ describe('Read test', () => {
 
     const post: PostType = {
         title: 'Title',
-        date: 'August 31st, 2019',
+        date: new Date('December 17, 1995'),
         body: 'Lorem ipsum...'
     };
 

@@ -1,5 +1,5 @@
 export interface PostType {
     title: string,
-    date: string,
+    date: Date,
     body: string
 }

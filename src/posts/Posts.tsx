@@ -15,7 +15,7 @@ function Posts(props: Props) {
         }
     };
 
-    const postElements = props.posts
+    const postElements: JSX.Element[] = props.posts
         .sort(postComparator)
         .map((post) => {
             return <Post key={post.title} post={post} />

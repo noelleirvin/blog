@@ -2,6 +2,7 @@ import React from 'react';
 import enzyme from 'enzyme';
 import { Read } from './Read';
 import { PostType } from '../types/PostType'
+import moment from 'moment';
 
 describe('Read test', () => {
 
@@ -16,7 +17,7 @@ describe('Read test', () => {
         expect(wrapper.find('.title').at(0).text())
             .toEqual(post.title);
         expect(wrapper.find('.date').at(0).text())
-            .toEqual(post.date);
+            .toEqual(moment(post.date).format('MMMM Do YYYY'));
         expect(wrapper.find('.body').at(0).text())
             .toEqual(post.body);
     });

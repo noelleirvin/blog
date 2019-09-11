@@ -1,7 +1,7 @@
 import React from 'react';
 import enzyme from 'enzyme';
 import { Read } from './Read';
-import { PostType } from '../types/PostType'
+import { PostType } from '../../types/PostType'
 import moment from 'moment';
 
 describe('Read test', () => {
@@ -9,7 +9,8 @@ describe('Read test', () => {
     const post: PostType = {
         title: 'Title',
         date: new Date('December 17, 1995'),
-        body: 'Lorem ipsum...'
+        body: 'Lorem ipsum...',
+        url: '/title'
     };
 
     it('should render title, date, and body', () => {

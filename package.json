@@ -6,14 +6,17 @@
     "@types/enzyme": "^3.10.3",
     "@types/jest": "24.0.18",
     "@types/node": "12.7.2",
-    "@types/react": "16.9.2",
+    "@types/react": "^16.9.3",
     "@types/react-dom": "16.9.0",
     "@types/react-router-dom": "^4.3.5",
+    "@types/showdown": "^1.9.3",
+    "html-react-parser": "^0.9.1",
     "moment": "^2.24.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.1.1",
+    "showdown": "^1.9.0",
     "typescript": "3.6.2"
   },
   "scripts": {

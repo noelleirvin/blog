@@ -1,4 +1,5 @@
 import React from 'react';
+import parse from 'html-react-parser';
 import { PostType } from '../../types/PostType';
 import moment from 'moment';
 import './Read.css';
@@ -12,7 +13,7 @@ function Read (props: Props) {
         <div className='read'>
             <h3 className='title'>{props.post.title}</h3>
             <p className='date'>{moment(props.post.date).format('MMMM Do YYYY')}</p>
-            <p className='body'>{props.post.body}</p>
+            <div className='body'>{parse(props.post.body)}</div>
         </div>
     );
 }

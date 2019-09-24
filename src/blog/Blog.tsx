@@ -23,11 +23,13 @@ class Blog extends React.Component<Props, {}>  {
           <header className="Blog-header">
             Mitch's Blog
           </header>
-          <Posts posts={this.props.posts} />
-          <Switch>
-            {this.routes}
-            <Route render={props => <Read post={this.props.posts[0]} />} />
-          </Switch>
+          <div className="Blog-content">
+            <Posts posts={this.props.posts} />
+            <Switch>
+              {this.routes}
+              <Route render={props => <Read post={this.props.posts[0]} />} />
+            </Switch>
+          </div>
         </div>
       </Router>
     );

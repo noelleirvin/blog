@@ -1,6 +1,7 @@
 import React from 'react';
 import { PostType } from '../../types/PostType';
 import moment from 'moment';
+import './Read.css';
 
 interface Props {
     post: PostType;

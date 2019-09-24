@@ -1,7 +1,7 @@
 import React from 'react';
 import Blog from './blog/Blog';
 import { PostType } from './types/PostType';
-
+import './App.css';
 
 function App() {
 

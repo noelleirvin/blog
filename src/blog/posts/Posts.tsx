@@ -1,6 +1,7 @@
 import React from 'react';
 import { PostType } from '../../types/PostType';
 import { Post } from './post/Post';
+import './Posts.css';
 
 interface Props {
     posts: PostType[]

@@ -1,14 +1,62 @@
 .Blog-header {
-  color: #282c34;
-  min-height: 15vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmax);
+  justify-content: flex-end;
+  font-size: 2rem;
+  border-bottom: 2px solid #847D7D;
+  padding-bottom: 20px;
+  margin-bottom: 16px;
+  margin-top: 50px;
 }
 
 .Blog-content {
   display: flex;
-  flex-direction: row;
+  flex-direction: column-reverse;
+  justify-content: space-between;
 }
+
+@media (min-width: 375px) {
+  .Blog {
+    margin: 0 24px;
+  }
+}
+
+@media (min-width: 480px) {
+  .Blog {
+    margin: 0 44px;
+  }
+}
+
+@media (min-width: 900px) {
+  .Blog {
+    margin: 0 56px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .Blog {
+    margin: 0 0;
+  }
+  .Blog-content{
+    flex-direction: row;
+  }
+  .Blog-header {
+    margin-bottom: 30px;
+    height: 108px;
+    margin-top: 0;
+  }
+}
+
+@media (width: 1024px) {
+  .Blog{
+    margin: 0 24px;
+  }
+}
+
+
+
+
+
+
+
+

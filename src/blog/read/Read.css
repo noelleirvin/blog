@@ -1,20 +1,57 @@
 .read {
-    width: 60%;
+    border-bottom: 2px solid #847D7D;
+}
+
+.read .heading {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .read .title {
-    font-size: 1.5rem;
-    color: #282c34;
-    text-align: center;
+    font-size: 32px;
+    margin: 0;
+    line-height: 32px;
 }
 
 .read .date {
-    font-size: 1rem;
-    color: #282c34;
-    text-align: center;
+    font-size: 12px;
+    margin: 0;
+}
+
+.read .subtitle {
+    font-size: 16px;
+    font-weight: 700;
+    margin: 10px 0 0 0 ;
 }
 
 .read .body {
-    color: #282c34;
-    font-size: 1rem;
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+
+@media (min-width: 1024px) {
+    .read {
+        border-left: 2px solid #847D7D;
+        width: 650px;
+        min-height: 500px;
+        padding-left: 32px;
+        border-bottom: 0;
+    }
+    .read .heading {
+        flex-wrap: nowrap;
+    }
+    .read .title {
+        line-height: 48px;
+    }
+    .read .date {
+        font-size: 16px;
+    }
+    .read .subtitle {
+        margin-top:0;
+    }
+    .read .body {
+        margin-bottom: 0;
+    }
 }

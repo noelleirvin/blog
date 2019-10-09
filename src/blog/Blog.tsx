@@ -21,7 +21,7 @@ class Blog extends React.Component<Props, {}>  {
       <Router>
         <div className="Blog">
           <header className="Blog-header">
-            Mitch's Blog
+            This Good Endeavor
           </header>
           <div className="Blog-content">
             <Posts posts={this.props.posts} />

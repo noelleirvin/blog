@@ -24,7 +24,6 @@ function Posts(props: Props) {
 
     return (
         <div className='posts'>
-            <h5 className='title'>Posts</h5>
             {postElements}
         </div>
     );

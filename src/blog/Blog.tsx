@@ -14,9 +14,17 @@ class Blog extends React.Component<Props, {}>  {
   routes: JSX.Element[] = this.props.posts.map((post) => {
     return <Route key={post.title} exact path={post.url}
       render={props => <Read post={post} />} />
-  })
+  });
 
   render() {
+    const welcomePost: PostType = {
+        title: 'Loading Posts...',
+        subtitle: '',
+        date: new Date('Sep 23, 2017'),
+        body: '',
+        url: ''
+    };
+
     return (
       <Router>
         <div className="Blog">
@@ -27,7 +35,7 @@ class Blog extends React.Component<Props, {}>  {
             <Posts posts={this.props.posts} />
             <Switch>
               {this.routes}
-              <Route render={props => <Read post={this.props.posts[0]} />} />
+              <Route render={props => <Read post={this.props.posts[0] ? this.props.posts[0] : welcomePost} />} />
             </Switch>
           </div>
         </div>

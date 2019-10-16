@@ -15,7 +15,7 @@ function Read (props: Props) {
                 <p className='title'>{props.post.title}</p>
                 <p className='date'>{moment(props.post.date).format('MMMM Do YYYY')}</p>
             </div>
-            <p className='subtitle'>Add subtitle to the react app with tests. Do Later.</p>
+            <p className='subtitle'>{props.post.subtitle}</p>
             <div className='body'>{parse(props.post.body)}</div>
         </div>
     );

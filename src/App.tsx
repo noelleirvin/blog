@@ -29,6 +29,15 @@ class App extends React.Component<{}, AppState> {
                     await axios.get('./posts/what-i-learned-in-my-first-two-years.md')
                         .then(postBodiesResponse => postBodiesResponse.data)),
                 url: '/what-i-learned-in-my-first-two-years'
+            },
+            {
+                title: 'Fundamental Money',
+                subtitle: 'I was 21 years old when I started my first full time job. All of the sudden, I went from almost zero financial responsibility to being responsible for managing a steady income.',
+                date: new Date('May 20, 2019'),
+                body: new Showdown.Converter().makeHtml(
+                    await axios.get('./posts/fundamental-money.md')
+                        .then(postBodiesResponse => postBodiesResponse.data)),
+                url: '/fundamental-money'
             }
         ];
         this.setState({posts: posts});

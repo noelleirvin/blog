@@ -10,9 +10,9 @@ interface Props {
 function Posts(props: Props) {
     const postComparator = (a: PostType, b: PostType) => {
         if (a.date > b.date) {
-            return 1;
+            return -1;
         } else {
-            return -1
+            return 1
         }
     };
 

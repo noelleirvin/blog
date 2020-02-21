@@ -1,0 +1,9 @@
+---
+
+Trying to describe oneself is a funny challenge. How do you, in few words, capture who you are? Often people will introduce themselves by their career of choice. Maybe the next logical step would be to share some hobbies or interests, maybe a favorite flavor of music, or perhaps a famous person whom you hold in high regard? I think this method of trying to describe an identity is flawed, and it would be a fun exercise to think about how to better capture an identity. However, it may be helpful, so here goes.
+
+If you're one of the few people who will find themselves here, you probably already have some familiarity with who I am. My name is Mitch. I'm married to a beautiful woman named Noelle. She and I both spend some amount of our time writing software (we actually co-authored the web application that is this blog). Writing software is how we make our living, though I think on most days my fondness of the craft exceeds her own. I enjoy reading, playing games (both board and video), and spending time with close friends and family. 
+
+Given any amount of time to myself, I find myself wandering up into my head, picking up whichever idea is nearest, and chewing. Broadly, these ideas are usually about the subjects my life is largely comprised of. Marriage/relationships, work, theology, and finance are the most prominent of these subjects. I'm particularly fond of thinking. The reason for this "blog", or journal, is to help more clearly form these ideas, and to share them with whomever may be interested.
+
+I think (and write) in the pursuit of Truth. Also, in the pursuit of a life lived to the fullest by honoring our design, growing in self-awareness, in relationship with others, and in relationship with our Designer. That is my good endeavor, and is the purpose for "This Good Endeavor".

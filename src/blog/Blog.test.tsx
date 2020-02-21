@@ -11,12 +11,14 @@ describe('Blog test', () => {
   const posts: PostType[] = [
     {
       title: 'mitchs first blog',
+      subtitle: 'subtitle',
       date: new Date('December 17, 1995'),
       body: 'Lorem ipsum...',
       url: '/mitchs-first-blog'
     },
     {
       title: 'title is',
+      subtitle: 'subtitle',
       date: new Date('March 12, 1995'),
       body: 'Best day...',
       url: '/title-is'
@@ -31,7 +33,7 @@ describe('Blog test', () => {
   it('renders header', () => {
     const wrapper = enzyme.shallow(<Blog posts={posts}/>);
     expect(wrapper.find('header'))
-      .toContainEqual(<header className="Blog-header">Mitch's Blog</header>);
+      .toContainEqual(<header className="Blog-header">This Good Endeavor</header>);
   });
 
   it('renders Posts component', () => {
@@ -41,7 +43,6 @@ describe('Blog test', () => {
 
   it('should route to posts', () => {
     const wrapper = enzyme.shallow(<Blog posts={posts}/>);
-
     const routes = wrapper.find(Route);
 
     expect(routes.at(0).exists()).toEqual(true);
@@ -53,11 +54,6 @@ describe('Blog test', () => {
     expect(routes.at(1).props().path).toEqual(posts[1].url);
     expect(routes.at(1).props().render())
       .toEqual(<Read post={posts[1]} />);
-
-    expect(routes.at(2).exists()).toEqual(true);
-    expect(routes.at(2).props().path).toEqual(undefined);
-    expect(routes.at(2).props().render())
-      .toEqual(<Read post={posts[0]} />);
   });
 
 });

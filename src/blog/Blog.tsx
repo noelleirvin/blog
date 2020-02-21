@@ -1,30 +1,17 @@
 import React from 'react';
 import './Blog.css';
-import { Read } from './read/Read';
 import { PostType } from '../types/PostType';
 import { Posts } from './posts/Posts';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { Read } from './read/Read';
 
 interface Props {
-  posts: PostType[];
+  posts: PostType[]
 }
 
 class Blog extends React.Component<Props, {}>  {
-  
-  routes: JSX.Element[] = this.props.posts.map((post) => {
-    return <Route key={post.title} exact path={post.url}
-      render={props => <Read post={post} />} />
-  });
 
   render() {
-    const welcomePost: PostType = {
-        title: 'Loading Posts...',
-        subtitle: '',
-        date: new Date('Sep 23, 2017'),
-        body: '',
-        url: ''
-    };
-
     return (
       <Router>
         <div className="Blog">
@@ -34,8 +21,10 @@ class Blog extends React.Component<Props, {}>  {
           <div className="Blog-content">
             <Posts posts={this.props.posts} />
             <Switch>
-              {this.routes}
-              <Route render={props => <Read post={this.props.posts[0] ? this.props.posts[0] : welcomePost} />} />
+              {this.props.posts.map((post) => {
+                return <Route key={post.title} exact path={post.url}
+                    render={props => <Read post={post} />} />
+                })}
             </Switch>
           </div>
         </div>

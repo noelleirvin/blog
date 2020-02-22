@@ -23,7 +23,7 @@ class App extends React.Component<{}, AppState> {
         let posts: PostType[] = [
             {
                 title: 'Welcome',
-                subtitle: 'What exactly is, "This Good Endeavor"?',
+                subtitle: 'What exactly is "This Good Endeavor"?',
                 date: new Date('Feb 20, 2020'),
                 body: new Showdown.Converter().makeHtml(
                     await axios.get('./posts/welcome.md')

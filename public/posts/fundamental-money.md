@@ -1,10 +1,9 @@
 ---
 
-I was 21 years old when I started my first full time job. All of the sudden, I went from almost zero financial responsibility to being responsible for managing a steady income. On top of that, I had these sticky things called student loans! I hadn't given much thought about what to do with those loans, or the paychecks when they started rolling in. Whether I liked it or not, the time had come to manage finances. Here are a few things I wish I knew about money before I started working.
+I was 21 years old when I started my first full time job. All of the sudden, I went from almost zero financial responsibility to being responsible for managing a steady income. On top of that, I had these sticky things called student loans. I hadn't given much thought about what to do with those loans, or the paychecks when they started rolling in. Whether I liked it or not, the time had come to manage finances. Here are a few things I've learned since I was given my first paycheck.
 
 ## 1: The Power of Compound Interest
-When asked to name the greatest invention in human history, Albert Einstein replied simply, "compound interest". Compound interest looks something like this:
-Photo from The Calculator SiteWhat this really means is, if we took some number of dollars, and had it grow by a fixed percentage each year, then the resulting growth curve is exponential. That just means that the rate of growth, not just the original amount, is increasing over time. This math makes for incredibly large increases in value, especially over longer time periods.
+When asked to name the greatest invention in human history, Albert Einstein replied simply, "compound interest". What this really means is, if we took some number of dollars, and had it grow by a fixed percentage each year, then the resulting growth curve is exponential. That just means that the rate of growth, not just the original amount, is increasing over time. This math makes for incredibly large increases in value, especially over longer time periods.
 
 Consider this scenario:
 You save $150 per month, for 15 years. At a 6% rate of return (I'll explain this number in a bit) you end up with $44,410. That's huge! You've only actually saved $27,000, but end up with more than $17,400 from interest!

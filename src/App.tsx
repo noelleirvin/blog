@@ -24,6 +24,15 @@ class App extends React.Component<{}, AppState> {
     private async getPosts() {
         let posts: PostType[] = [
             {
+                title: 'Being Afraid',
+                subtitle: 'An exploration off the first handful of counseling sessions Noelle and I shared.', 
+                date: new Date('April 20, 2020'),
+                body: this.markdownToHtmlConverter.makeHtml(
+                    await axios.get('./posts/being-afraid.md')
+                        .then(postBodiesResponse => postBodiesResponse.data)),
+                url: '/being-afraid'
+            },
+            {
                 title: 'The Investigator',
                 subtitle: 'My initial response to, and processing of, Ian Cron\'s text "The Road Back to You". Specifically: chapter 9, "Type 5 - The Investigator".',
                 date: new Date('Feb 24, 2020'),

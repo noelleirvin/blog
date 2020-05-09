@@ -24,6 +24,15 @@ class App extends React.Component<{}, AppState> {
     private async getPosts() {
         let posts: PostType[] = [
             {
+                title: 'Truth in the Face of Suffering',
+                subtitle: 'Faced with death, or any kind of related suffering, what is the Truth that our worldview (salvation by faith in the God of the Christian bible) offers us?', 
+                date: new Date('May 9, 2020'),
+                body: this.markdownToHtmlConverter.makeHtml(
+                    await axios.get('./posts/truth-in-the-face-of-suffering.md')
+                        .then(postBodiesResponse => postBodiesResponse.data)),
+                url: '/truth-in-the-face-of-suffering'
+            },
+            {
                 title: 'Being Afraid',
                 subtitle: 'An exploration off the first handful of counseling sessions Noelle and I shared.', 
                 date: new Date('April 20, 2020'),

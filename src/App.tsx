@@ -69,10 +69,10 @@ class App extends React.Component<{}, AppState> {
                 },
             ]
         };
-        this.getPosts();
+        this.addPostBodies();
     }
 
-    private getPosts() {
+    private addPostBodies() {
         this.state.posts.forEach((post, index) => {
             const postFileName = this.getPostFileName(post);
             axios.get(postFileName)

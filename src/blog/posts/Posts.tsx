@@ -8,16 +8,7 @@ interface Props {
 }
 
 function Posts(props: Props) {
-    const postComparator = (a: PostType, b: PostType) => {
-        if (a.date > b.date) {
-            return -1;
-        } else {
-            return 1
-        }
-    };
-
     const postElements: JSX.Element[] = props.posts
-        .sort(postComparator)
         .map((post) => {
             return <Post key={post.title} post={post} />
         });

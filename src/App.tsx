@@ -54,19 +54,19 @@ class App extends React.Component<{}, AppState> {
                     url: '/'
                 },
                 {
+                    title: 'Fundamental Money',
+                    subtitle: 'Navigating the transition from zero financial responsibility, to stewarding a steady income.',
+                    date: new Date('May 20, 2019'),
+                    body: "",
+                    url: '/fundamental-money'
+                },
+                {
                     title: 'What I Learned In My First Two Years as a Software Engineer',
                     subtitle: 'Two stories, lessons learned, my regrets, and my goals after my first two years working as a software engineer.',
                     date: new Date('Jan 17, 2019'),
                     body: "",
                     url: '/what-i-learned-in-my-first-two-years'
                 },
-                {
-                    title: 'Fundamental Money',
-                    subtitle: 'Navigating the transition from zero financial responsibility, to stewarding a steady income.',
-                    date: new Date('May 20, 2019'),
-                    body: "",
-                    url: '/fundamental-money'
-                }
             ]
         };
         this.getPosts();

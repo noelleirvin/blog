@@ -1,23 +1,23 @@
 ---
 
-## The Reason for this Post
+### The Reason for this Post
 The last year or so has been a particularly focused time for my wife and I. We've spent large quantities of time looking to understand the hurts of our past, how they've shaped us, and how to heal. One goal is a healthier and more joyful marriage. Another goal is to grow in spiritual maturity, deepening our relationship with God while also using that wisdom to grow in relationships with friends, family, and the people around us. I'll refer to the work and these goals as our "pursuit", moving forward.
 
 One tool that's been useful in our pursuit is the Enneagram. The Enneagram is a model of human personality, describing nine interlinked personality types. This is a little reductionist, but each type is, at a high level, described by their basic fear, and basic desire. I won't spend time exploring the legitimacy or wisdom of the Enneagram, because that procrastinates the real purpose of this post. However, I'm a skeptic by nature, and yet have found this model to prove itself consistently helpful. British statistician George Box famously (and humorously) said, "All models are wrong, but some are useful." I'll assume the same in the thoughts that follow.
 
-## Identifying as a Five
+### Identifying as a Five
 As a part of the pursuit, I've been reading Ian Cron's "The Road Back to You". Today, I read chapter 9 of the book, titled, "Type 5 - The Investigator". In the summer of last year (2019) I had the revelation that I might be a "5". This was driven in part by recognizing how strongly I identify with some characters in fiction who are also typed as 5s. Chief among them was Dr. Gregory House. "House M.D." is likely my favorite television show of all time, probably because of how much House's ideas and emotions resonate. In a few words, this character was nihilistic (think, "everything is meaningless"), pensive (a deep thinker), and relationally detached. His core desire was to acquire knowledge and understanding in order to establish himself as non-dependent. His core fear was being incapable of doing his job (as a brilliant diagnostician) and being unworthy of being loved (primarily by his friends, James Wilson and Lisa Cuddy). A similar character in literature, albeit a few generations past, is Sherlock Holmes. 
 
 This new understanding, of myself as a 5, pressed me. I desire not to be emotionally detached, nor do I want to let my identity live in my "being able". Yet, to some degree, these were true of me. The implication of these tendencies was relatively clear. At some point in my life, as I was growing up, I believed the "truths" that I can't/shouldn't create dependencies on others, and that emotions weren't to be trusted. These personality features are, of course, both flexible, and not exhaustive. As any person grows in self-awareness and wisdom, they'll find themselves beginning to reject the "truths" they adopted earlier on, for the Truths that really are. In the next section, I'll walk through Cron's chapter on the 5, in an attempt to dissect what some of the "truths" are that I've come to believe, and what their counterpart Truths are that I ought to know.
 
-## Healthy, Average, and Unhealthy
+### Healthy, Average, and Unhealthy
 Cron begins every chapter with a few-line description of the type in healthy, average, and unhealthy states. Fives, in less healthy states, tend to believe "there isn't enough" and "I'm not enough". The "not enough" mentality manifests in their lives as a hoarding of time, energy, and resources. This usually means ensuring no dependencies on other people or other things, and can manifest as minimalism. As they move toward greater self-awareness and wisdom, they begin to adopt a perspective of abundance, "there is enough" and "I am enough". This enables them to connect more with their environment, not believing themselves to be separate, but to be a part of. 
 
 It's interesting to hear the idea said out loud, "there isn't enough". I've had a tendency, growing up, to see other people, events, and commitments as demands on my time and energy, of which there is a limited quantity. Growing up, when it came to money, time, or ability, I consistently ensured there was more than enough. I want to be early for events, and when traveling somewhere I want to ensure there is more than enough time to get there. I want to over-budget for every line-item, and I want to be more than prepared for an interview or test. 
 
 It's also interesting, chewing on the thought "I'm not enough". The practical ramifications of this belief in my life are bountiful, when I take the time to look for them. I spend much time and energy acquiring knowledge, pursuing righteousness, and doing the "right thing". Why? I think because I hope it will earn the approval and affection of God, my wife, coworkers, friends, and family. It's painful, but I've known for some time; a sin of mine is the desire for human (and supernatural) approval. I think it stands to reason, my desire for approval is (or could be) rooted in the belief, "I'm not enough". 
 
-## Their Deadly Sin
+### Their Deadly Sin
 Cron describes the deadly sin of the Five as avarice, though not usually in the sense of great monetary or material gain.
 
 > Fives pare down their needs and hoard the barest essentials to ensure they can maintain a self-sufficient existence, now and in the future... The idea of losing their independence and self-reliance terrifies them.
@@ -26,29 +26,29 @@ It's said that the Five exists in the Fear or Head Triad of the Enneagram, along
 
 I've never, in my heart, really felt the truth that we, humans, are sheep. More specifically, that I, a human, am a sheep. I've studied those passages in my Bible. I've listened to many a sermon on the subject. Yet, the arrogant part of my soul refuses to admit that I am a sheep, and I _need_ a shepherd. I wholly depend on Somebody else. I've always believed to some degree, I am self-sufficient. Therein lies my real fear. Of not being so. This gives birth to avarice, or the desire to hoard the things I believe will aid me to self-sufficiency. I believe in order to be self-sufficient, I must carefully, and selfishly, guard my time, resources, and energy. 
 
-## About the Five
+### About the Five
 
-### Fives prefer to observe
+#### Fives prefer to observe
 > Fives observe life from a distance rather than jumping in and participating in it
 
 Cron describes the tendency of the Five to observe as a first line of defense against what the world might expect of them. I relate. The acquisition of knowledge, and the tendency to actively observe, is an effort to be prepared for what the next "ask" might be. It's an effort to feel confident and capable in whatever comes next.
 
-### Fives collect knowledge
+#### Fives collect knowledge
 > Knowledge and information of almost any kind (even the strangest information) provides Fives with a sense of control and a defense against feelings of inadequacy.
 
 I've always loved books. As a child I had a voracious appetite for literature, both fiction and non-fiction. I still love books. I enjoy collecting them and reading them. I imagine our dream home will contain a study or library of sorts with floor to ceiling shelves of great books, and delightful places to devour them in comfort. Enjoying fiction, I believe, speaks more to my secondary personality type (or "wing"), the Four. Enjoying non-fiction, I think, addresses the desire to use knowledge as a defense against feelings of inadequacy, and the world's expectations. I don't greatly enjoy large social gatherings, maybe because what is expected of me is unpredictable. Acquiring knowledge is one way for me to be prepared for that unpredictability.
 
-### Compartmentalization and privacy
+#### Compartmentalization and privacy
 > Believing their inner resources are limited and seeking to feel in control, Fives assign their job, marriage, hobbies, friendships, and other commitments to separate mental cubby-holes.
 
 I've never actively considered the manner in which I organize my life, though there is much truth to this statement. I have groups of friends born of work, or various interests, that know nothing about the other. I generally don't allow these groups to bleed into each other. I'm uncertain if this is particular to the Five. It feels like this could be true of any type, though Cron describes this as a signature defense mechanism of the Five, against the too-large demands of life.
 
-### Fives aren't ruled by their feelings
+#### Fives aren't ruled by their feelings
 > Of all types Fives are the most emotionally detached... they want to have control over the unpredictable feelings that might threaten to overwhelm them.
 
 Yes. Looking back at my childhood, it's easy to see my twin sister being a whirlwind of feelings and emotions. Frankly, it's easy to see it today. I think, though, her emotional capacity and volume communicated to me the idea, "emotions can't be trusted". I watched her lack of control of her emotions harm her relationship with our father, and our mother. As a result, as a teenager I learned quickly how to put a cap on what I might be feeling, and to retreat up into my head to deal with the circumstances. It's certainly not that I don't experience emotion, I imagine many Fives with a Four wing have much emotion, but that I don't want to allow emotions to make decisions for me.
 
-## Fives as children
+### Fives as children
 Childhood is definitely something interesting to explore. I won't share anything directly from Cron's passage, but instead will focus on my own experience. My mother was very empathetic, kind, and forgiving. She was great at absorbing emotional intensity from my sister or my father, and loved the whole family with words and actions. My father loved us deeply, which he usually expressed in his commitment to our family and providing for us. He often sacrificed his own desires for the good of the family, at the cost of his own physical/emotional health and well-being. My sister was great at expressing her emotions and desires, but struggled to subdue them when necessary, causing much friction with my father, and some with my mother.
 
 This family dynamic usually placed my mother in the role of peacekeeper, if emotions ran high between my father and my sister. Seeing the equation as unbalanced, I decided to work on subdueing emotions, so I could jump on my mother's side of the scale to achieve balance. In this role, I picked up the message "you need to help keep the peace, so don't add your own emotions to the scale". That need to keep peace could be one of the driving factors in my acquisition of knowledge and wisdom, as a way to be prepared for the demands of relationships.
@@ -57,7 +57,7 @@ I also grew up fiercely competitive, mostly in sport, but also in school. I grea
 
 To be clear, I am wildly grateful for my father, mother, and sister, and have enormous respect for each of them. I cherish these individuals, and our relationships, and greatly enjoy time together.
 
-## Fives in relationships
+### Fives in relationships
 Aye, there's the rub. I'm perhaps most excited to explore this aspect of myself, as it has the most practical implications in my daily life. Here's a non-exhaustive punch list on the Five for us to dig into.
 
 - Social engagement is taxing
@@ -75,10 +75,10 @@ My wife also is greatly energized by emotional intimacy, and quality time togeth
 
 Sharing emotions. Yikes. I can't tell you how uncomfortable it is for me. In my wife and I's first session together with a counselor, the counselor asked me what I felt about a circumstance I was describing. I answered with, "well here are some thing to consider...". It took her three more attempts at the same question before I responded with, "You want me to say I'm sad, don't you?" The following 10 minutes were some of the least comfortable of my life. I don't enjoy naming my emotions (at least, "negative" ones), and I enjoy even less sharing them. There are a few reasons this is hard on our relationship. One, it's dishonest for me to not share what I'm feeling with my wife. If she doesn't know what I'm feeling, how is she supposed to be able love me well? I'm withholding information by not communicating this. Two, it prevents opportunities for my wife to care for me. In my desire for independence, I steal from my wife opportunities to care for me. I essentially say, "I'll care for you, but only if you'll let me care for myself". I fear depending on her, because depending on her might get me hurt. The "truth" I believe might be, "I can't trust my wife to handle my emotions, or to not hurt me if I get vulnerable". I think the Truth to believe is, "My wife is human, and won't be perfect at caring for me and handling my emotions, but she loves me and by marriage vows has earned the right to care for me. Giving her these opportunities will yield more trust, safety, and security than ever could be achieved by withholding them." There are miles deeper to go, in this subject, but those exist outside the scope of this post.
 
-## Fives at work
+### Fives at work
 Cron describes Fives at work with a few core traits. First, they're cool under pressure. Second, they desire predictability (of both schedule and expectations). Third, they desire autonomy. For the most part, these resonate with me. I rarely let emotions, in the heat of the moment, influence my decision-making process. However, when pressure builds and the path forward is amorphous, I've found myself busying to the point of complete inertia. Think, wheels spinning in mud. Without a clear vision for what needs to be accomplished and when it must be done, I can spend days reading about unnecessary details of a certain programming language I'm using instead of finishing tasks. I thrive on autonomy, but also thoroughly enjoy and _need_ social interaction. My previous role had me pair-programming (sitting side by side) with another engineer the entire day. My current role has me sitting alone the entire day. Frankly, I'm not sure which I prefer.
 
-## Wings
+### Wings
 Wings are a secondary type that help shape your primary type, and sit adjacent to it on the Enneagram. I would self-identify as a Five with a Four wing. Cron describes these Fives as "more creative, sensitive, empathetic, and self-absorbed" than Fives with a Six wing. He adds that they're "more likely to experience melancholy", and they "tend to be more tender with themselves and less emotionally guarded around others". I suppose I'll take each of those initial adjectives one at a time.
 
 Creative. I grew up enjoying art, particularly drawing, but didn't ever stick with it. I always enjoyed good literature, and since grade school I've enjoyed writing of all forms (I helped produce the creative writing magazine at my high school for a couple years). I often and moved by beauty in art and nature, but don't typically share that experience beyond my head.
@@ -93,7 +93,7 @@ Melancholy. My wife tells me I don't perceive sadness, grief, or pain the same w
 
 More tender... less emotionally guarded. I think so. Both of these are a direction I hope to be moving in daily.
 
-## Stress and security
+### Stress and security
 > In stress, Fives instinctually move to the not-so-healthy side of Seven, where they will hoard and cling more tightly to things... they turn their attention away from the needs of others and focus almost solely on their own need for safety and independence.
 
 Real true. Not the direction I want to be moving.
@@ -102,18 +102,18 @@ Real true. Not the direction I want to be moving.
 
 In security, I move outward. In stress, I move inward. This will influence the next section.
 
-## Spiritual transformation
+### Spiritual transformation
 Before I read Cron's suggestions for positive spiritual transformation, I'd like to articulate what I believe my direction ought to be. It should first be noted, I think the power for this kind of transformation comes from within, but not from us. The true power for character change is found in the presence of God (the Spirit), living in us, constantly guiding and shaping us. Outside of a personal relationship with Him, I don't know of a power source for true change of character.
 
-### My own desire for growth
+#### My own desire for growth
 1. Self forgetfulness. Self-interest is one of the sins we possess as humans, but I believe is especially true of myself. I desire not to think less of myself, but to think of myself less.
 2. Co-dependence. No man is an island, and it is not sufficient to merely engage with and love others until I must return home to refill my tank. I must not depend solely on myself to keep the tank full, but offer others that opportunity.
 3. Vulnerability. To share an emotion is to expose a part of oneself. It is, figuratively, making naked something that was previously veiled. I desire most to more consistently share my fear (of which I pretend I have none) and sadness.
 
-### Cron's take on spiritual transformation
+#### Cron's take on spiritual transformation
 Cron describes the path forward as learning to use the Five's ability to detach (from emotions, people, and things) to better engage. More specifically, the purpose of detachment is to allow us to properly re-order our attachments (or affections of our heart). Once they are correctly ordered, we are then well-positioned to most effectively engage in our relationships with God and others. This involves connecting to emotions in real-time, however, and embracing the Truth of God's providence (that there _is_ enough time, money, privacy, love, knowledge to go around).
 
-## Closing
+### Closing
 Phew. If you managed to get through this in one sitting, I'm impressed. I sure didn't. Also, thank you. Sincerely. There is little you could do that makes me feel more honored than listening to my thoughts. I'm grateful, and I don't take your ear or your time for granted. I'd be wildly grateful if you would share your ideas in response to this. Unfortunately, this little web app is static, so you can't post comments (yet). Let's grab a coffee and talk!
 
 Mitch

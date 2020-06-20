@@ -1,7 +1,7 @@
 ---
 
-## Medium Heading
+### Medium Heading
 Lorem ipsum...
 
-### Smaller Heading
+#### Smaller Heading
 Lorem ipsum...

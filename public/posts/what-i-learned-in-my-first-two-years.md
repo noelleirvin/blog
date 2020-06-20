@@ -1,6 +1,6 @@
 ---
 
-## University and the Workplace
+### University and the Workplace
 It was 2015 and I was a student at the University of Florida. During that time, I studied under a professor who, for what was probably the hardest class in the department, would assign multiple team based projects throughout the semester. At the end of each project, the professor would evaluate each student individually. When the next project came around, this professor grouped the best students from previous assignments together, and the worst students on their own teams. By the end of the semester, each student either fought their way into a strong team and succeeded, or ended up failing on a team full of low performers. It was beautiful. The strong were not forced to carry the weak, and the weak could either get strong or die. This environment could be aptly described by the word meritocracy. This system rewards the most talented students and allowed the students who didn't work hard to sink with their own ship. I loved it.
 
 A year later, I graduated. I was energized, idealistic, and ready to make my mark on the field I had spent the last four years studying. After an internship, I received an offer for a position as a software engineer at a large company with a great reputation. I walked in on my first day, eager to become a great software engineer.
@@ -13,10 +13,10 @@ I spent the final three months like this, and the project landed in its final re
 
 A couple of weeks later, I sent out a survey seeking feedback on how I could improve as a teammate. The results of the survey made one thing really clear. Performance isn't everything. Coming into my career, I assumed the golden standard of meritocracy I had so appreciated in school would be the same standard upheld in the workplace. There would be appropriate reward for the strong and swift justice for the weak. This perception poisoned my ability to work well with others, to be grateful for their contributions, to be humble in learning, and patient in teaching. People's perception (of me) had become, "He's too focused on performance".
 
-### Lesson 1: Your relationships with your coworkers (interpersonal/leadership skills) and your technical prowess (hard skills) are equally important
+#### Lesson 1: Your relationships with your coworkers (interpersonal/leadership skills) and your technical prowess (hard skills) are equally important
 To be a great software engineer, you need to hone your craft over the course of many years. Over time, you'll travel up, down, and back up again the plot of the Dunning-Kruger chart. As you go you'll make mistakes, learn from others, and share your knowledge. You must have strength in your technical discipline. However, if this is the only strength you have, you're going to find yourself in an unhappy place. If your goal is to become the best software engineer possible, that journey must include a pursuit of becoming the best teammate (and perhaps leader) possible. This begins with making the people around you as much of a priority as you've made yourself.
 
-## The Best Engineer I've Ever Worked With
+### The Best Engineer I've Ever Worked With
 One September morning, two new contractors joined our team. Our team pursues pair programming as a discipline, so I ended up sitting next to one of the two contractors on a "pairing station" to begin the day's work. Over the course of the next seven or so hours, this engineer (let's call him Bob) asked questions. When we were working on a new feature, Bob asked questions about the language and framework we were using. When we were ironing out details of business rules, Bob asked questions about the product and the problem we were solving. Bob didn't write much code that day. At the end of the day, I was a little disappointed in Bob. I had high hopes for his skill as an engineer, and had hoped he was somebody I could learn from.
 
 The next day, Bob and I worked on writing another feature. As I wrote out the initial test case for that feature, ran it, and grinned when all the green check marks showed up on the screen. Bob looked on, pensive. After the tests came back green, he went into the method being tested and changed a line or two. I started to object "Wait! That behavior is incorrect." He nodded, and then proceeded to run our test cases again. All tests passed. Yikes.
@@ -25,17 +25,17 @@ Weeks went by as Bob and I continued to pair. He continued to ask questions as w
 
 In our team's conversations, Bob didn't steamroll anybody when he thought they were wrong. He asked questions. As they answered those questions, they often found themselves where (I suspect) Bob had been the whole time. At the heart of nearly every software-related decision the team made I found Bob's questions. Bob didn't make assertions about his contributions to the team. He never referred to his skill as an engineer. He didn't seem to care how much time he actually spent on the keyboard when he was pairing. Bob is the best engineer I've ever worked with.
 
-### Lesson 2: Your ability to influence others is most prominently determined by your ability to help them reach the same conclusion you did, on their own
+#### Lesson 2: Your ability to influence others is most prominently determined by your ability to help them reach the same conclusion you did, on their own
 Bob rarely stated, "this is what we should do and why". He asked questions about the other ideas that were on the table. At the end of most conversations, his questions would have led the others to remove pretty much any other idea from the table. Now, Bob didn't have all the perfect ideas. Very often he would get an answer to one of his questions that would cause him to say something to the effect of, "Good point. Let's go with that." However, he had by far the most positive influence on the quality of our software because he possessed a powerful ability to influence our team's reasoning. Yet, he spent much more time asking questions than he did sharing his own thoughts.
-### Lesson 3: It is the mark of a great problem solver to ask many questions before beginning to think about a solution
+#### Lesson 3: It is the mark of a great problem solver to ask many questions before beginning to think about a solution
 As software engineers we are, at our cores, problem solvers. Learning something new is a problem to solve. Coding is a problem to solve. Communicating is a problem to solve. Great software engineers are great problem solvers, and great problem solving starts with understanding the problem by asking questions. Asking questions demonstrates respect for others' ideas. Asking questions helps you gain understanding you wouldn't otherwise garner. Asking questions improves the odds that when you do share an answer, that answer will be appropriate. The people who most often come up with a great solution are the same people who took the time to understand the problem.
 
 A final note about Bob. He was easily technically talented enough to be an anchor and lead teams. I'm sure he could be an architect if he had the desire. He doesn't. Bob likes writing code. He likes doing domain analysis. He likes designing business objects and writing robust test suites. He likes delivering quality software.
 
-## Looking Back
+### Looking Back
 My first two years were an adventure. I built software, broke software, and fixed software. I sat in meetings where people quite literally fell asleep at the table. I had my hand smacked a couple of times (often by my future self). I threw myself into the work, with all of the joys and pains bundled in.
 
-### Looking back, here are some regrets:
+#### Looking back, here are some regrets:
 - The times I let the work take priority over the people. The work (product) always sorts itself out. The relationships, however, can be much more difficult to repair and maintain.
 - The time I spent looking around instead of looking up and looking in. You don't become a better teammate by being focused on what others could improve on. You get better by recognizing your weaknesses and strengths.
 - The time I spent talking when I could've been listening. Nobody gets smarter or gains more empathy when they're speaking.

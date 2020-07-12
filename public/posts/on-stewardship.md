@@ -1,7 +1,7 @@
 ---
 
-## The Problem of Stewardship
-I've [written before about money](https://thisgoodendeavor.com/fundamental-money). The purpose of that post could be summarized, "To communicate, in a nutshell, how to maximize personal wealth." While this is an incredibly pragmatic goal, it is, I think, incomplete. Actually, it would be more correct of me to say not that it is incomplete, but it is just one part of a greater whole. 
+### The Problem of Stewardship
+I've [written before about money](https://thisgoodendeavor.com/fundamental-money). The purpose of that post could be summarized, "To communicate, in a nutshell, how to maximize personal wealth." While this is an incredibly pragmatic goal, it is, I think, incomplete. Actually, it would be more correct of me to say not that it is incomplete, rather it is but one part of a greater whole. 
 
 We live in an age where, for the majority of the population (in first world countries), the primary objective of living is not _merely_ survival. What this means in financial terms is that most individuals earn more money than is sufficient to provide for themselves food, shelter, and clothing. Which presents an obvious question, "How should they use the surplus?"
 

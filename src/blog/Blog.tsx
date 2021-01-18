@@ -2,7 +2,7 @@ import React from 'react';
 import './Blog.css';
 import { PostType } from '../types/PostType';
 import { Posts } from './posts/Posts';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route, Redirect } from 'react-router-dom';
 import { Read } from './read/Read';
 
 interface Props {
@@ -25,6 +25,7 @@ class Blog extends React.Component<Props, {}>  {
                 return <Route key={post.title} exact path={post.url}
                     render={props => <Read post={post} />} />
                 })}
+              <Route key="Redirect" render={props => <Redirect to="/"/>}/>
             </Switch>
           </div>
         </div>

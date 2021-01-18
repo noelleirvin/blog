@@ -1,7 +1,7 @@
 ---
 
 ### The Problem of Stewardship
-I've [written before about money](https://thisgoodendeavor.com/fundamental-money). The purpose of that post could be summarized, "To communicate, in a nutshell, how to maximize personal wealth." While this is an incredibly pragmatic goal, it is, I think, incomplete. Actually, it would be more correct of me to say not that it is incomplete, rather it is but one part of a greater whole. 
+I've [written before about money](https://thisgoodendeavor.com/fundamental-money). The purpose of that post could be summarized, "To communicate, in a nutshell, how to maximize personal wealth." While this is an incredibly pragmatic goal, it is, I think, incomplete. Actually, it would be more correct of me to say not that it is incomplete, rather, it is but one part of a greater whole. 
 
 We live in an age where, for the majority of the population (in first world countries), the primary objective of living is not _merely_ survival. What this means in financial terms is that most individuals earn more money than is sufficient to provide for themselves food, shelter, and clothing. Which presents an obvious question, "How should they use the surplus?"
 
@@ -29,7 +29,9 @@ The biblical truth, however, is a stark contrast. The bible says that we, as ind
 
 If all good things are ultimately given to us by God, what does that make us? Stewards. To steward means to ["manage or look after (another's property)"](https://www.google.com/search?q=steward). God has trusted us with the responsibility of managing the gifts he has given. These gifts are inclusive of, but not limited to, the paychecks we receive. Furthermore, if the money in the paycheck we receive is not ours, but His, then our responsibility is not simply to give God his portion (through charity or the like), but to honor God with how we manage every penny. 
 
-Herein lies the chief challenge of the Christian, when it comes to money. How do they honor God with every penny of the money he has entrusted them? For the purposes of this post, let's call this the "Question". 
+Herein lies the chief challenge of the Christian, when it comes to money. How do they honor God with every penny of the money he has entrusted them? For the purposes of this post, let's call this the "Question".
+
+
 
 ## In the Abstract
 A helpful place to start is to consider the question, "What can be done with money?" If you were to open your wallet, billfold, or purse, and find a one hundred dollar bill, what would you do with it? Depending on where you are, one hundred dollars could be exchanged for nice clothing. Or, perhaps, it could buy you (and a friend, or friends) a good meal at that restaurant you're particularly fond of. Maybe you've had your eye on a nice item for your home. All of these examples are instances of one use of money, in the abstract. Namely, spending. 
@@ -38,13 +40,19 @@ What else could you do with that bill? You might think, "I want to buy a house s
 
 You might be a rather charitable chap, and decide instead to take your one hundred dollars and donate it to the local soup kitchen, or animal shelter, or youth center. Or perhaps you know a friend or family member who could really use a particular item, and you decide to put your money toward that gift. Both ideas are instances of the final use of money, in the abstract. Namely, giving.
 
-There are thousands of ways to consume money, but, ultimately, all of those ways can be rolled up into one (or more) of these three categories. Moreover, it is far more simple (though far from simple) to answer the Question when we consider these three uses individually. 
+There are thousands of ways to consume money, but, ultimately, all of those ways can be rolled up into one (or more) of these three categories. Moreover, it is far more simple (though far from simple) to answer the Question when we consider these three uses individually. It is the nature of many biblical truths that to abide by them is to adhere to guiding principles, moreso than to follow specific patterns of behavior. For example, we are told the greatest command is to love God and love others ([Matthew 22:37-39](https://biblehub.com/esv/matthew/22.htm)). However, we're not told precisely _how_ to do that in every circumstance. Instead, we're given principles like "count others more significant than yourselves" ([Phillipians 2:3](https://biblehub.com/philippians/2-3.htm)) and "love is patient, love is kind..." ([1 Corinthians 13:4-7](https://biblehub.com/esv/1_corinthians/13.htm)). 
+
+In answering the Question with scripture, we will often find ourselves met with principles of a similar form. For this reason, it's worth stating now that you will not find below an assertion such as, "You ought to allot 20% of your income to saving, 20% to giving, 40% to necessities, and 20% to discretionary spending". Instead, you will find principles, and principled questions, to guide you in stewardship. 
 
 ### Spending
+This use of money, at first blush, would appear to be the most challenging. Ought the Christian spend money on anything other than bare necessities? The Apostle Paul, perhaps the most influential Christian leader in history, behind Jesus, lived an ascetic lifestyle, frequently working with his own hands to pay for necessities while he was ministering ((2 Thessalonians 3:8)[https://biblehub.com/2_thessalonians/3-8.htm]). Many other famous Christian leaders lived, or live, similarly. However, we're also given the example of David in the books of Samuel, a man who was a king (and clearly indulged in pleasures his wealth afforded him), but also claimed by God as a man after his own heart ([1 Samuel 13:14](https://biblehub.com/1_samuel/13-14.htm)). Likewise, we have the example of Job. An incredibly wealthy man, of whom God says, "there is none like him on the earth, a blameless and upright man, who fears God and turns away from evil" ([Job 1:8](https://biblehub.com/job/1-8.htm)). What, then, are we to make of wealth and of spending money?
 
+### Saving
+> Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal, but lay up for yourselves treasures in heaven, where neither moth nor rust destroys and where thieves do not break in and steal. For where your treasure is, there your heart will be also. [Matthew 6:19-21](https://biblehub.com/esv/matthew/6.htm)
 
+> Parable of the talents [Matthew 25:14-30](https://biblehub.com/esv/matthew/25.htm)
 
-- three things you can do with money, give, save, spend
-- giving - talked about the most, but often in unhelpful ways. the question isn't "what's the least I can give with which God would be satisfied?", but is "how do I honor God with my giving?" having relationships with the recipients. giving in ways that actually help honor God's design for people as image-bearers. 
-- saving - parable of the talents. we ought to multiply what we've been given. story of Joseph, storing up for the 7yr famine
-- spending - David, a man after God's own heart, was a king, and clearly wasn't living an ascetic lifestyle. 
+> Joseph and the Famine [Genesis 41](https://biblehub.com/esv/genesis/41.htm)
+
+### Giving
+talked about the most, but often in unhelpful ways. the question isn't "what's the least I can give with which God would be satisfied?", but is "how do I honor God with my giving?" having relationships with the recipients. giving in ways that actually help honor God's design for people as image-bearers. 

@@ -4,6 +4,7 @@ import { PostType } from '../types/PostType';
 import { Posts } from './posts/Posts';
 import { BrowserRouter as Router, Switch, Route, Redirect } from 'react-router-dom';
 import { Read } from './read/Read';
+import { Header } from './header/Header';
 
 interface Props {
   posts: PostType[]
@@ -15,9 +16,7 @@ class Blog extends React.Component<Props, {}>  {
     return (
       <Router>
         <div className="Blog">
-          <header className="Blog-header">
-            This Good Endeavor
-          </header>
+          <Header />
           <div className="Blog-content">
             <Posts posts={this.props.posts} />
             <Switch>

@@ -16,19 +16,19 @@
 }
 
 @media (min-width: 375px) {
-  .Blog {
+  .Blog-content {
     margin: 0 24px;
   }
 }
 
 @media (min-width: 480px) {
-  .Blog {
+  .Blog-content  {
     margin: 0 44px;
   }
 }
 
 @media (min-width: 900px) {
-  .Blog {
+  .Blog-content  {
     margin: 0 56px;
   }
 }

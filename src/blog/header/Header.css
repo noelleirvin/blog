@@ -1,0 +1,47 @@
+header {
+    height: 72px;
+    border-bottom: 2px solid #000000;
+    display: flex;
+    align-items: center;
+}
+
+.header-logo {
+    font-family: "Playfair Display", sans-serif;
+    font-size: 36px;
+    padding-right: 8px;
+}
+
+.header-home a {
+    text-decoration: none;
+    color: #000000;
+    align-items: center;
+    display: flex;
+}
+
+.header-title {
+    font-size: 22px;
+    font-family: "Playfair Display", sans-serif;
+    line-height: 36px;
+    border-left: 1px solid #000000;
+    padding-left: 8px;
+    margin-top: 4px;
+}
+.header-home{
+    margin: 0 12px;
+}
+
+@media(min-width: 500px) {
+    header {
+        height: 92px;
+    }
+    .header-title {
+        font-size: 28px;
+        padding-left: 12px;
+    }
+    .header-logo {
+        width: 100px;
+        font-size: 48px;
+        padding-left: 12px;
+
+    }
+}

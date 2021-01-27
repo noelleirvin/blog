@@ -1,6 +1,7 @@
 .posts {
-    max-width: 300px;
-    margin-top: 20px;
+    width: 25%;
+    /* margin-top: 20px; */
+    padding: 66px 5% 66px 10%;
 }
 
 @media (min-width: 1024px) {

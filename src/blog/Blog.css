@@ -19,6 +19,7 @@
   flex-direction: column-reverse;
   justify-content: space-between;
   padding-bottom: 100px;
+  /* margin: 66px 0; */
 }
 
 .logo {
@@ -29,13 +30,13 @@
 
 @media (min-width: 375px) {
   .Blog-content {
-    margin: 0 24px;
+    /* margin: 0 24px; */
   }
 }
 
 @media (min-width: 480px) {
   .Blog-content  {
-    margin: 0 44px;
+    /* margin: 0 44px; */
   }
   .logo {
     width: 100px;
@@ -46,7 +47,7 @@
 
 @media (min-width: 900px) {
   .Blog-content  {
-    margin: 0 56px;
+    /* margin: 0 56px; */
   }
 }
 
@@ -66,7 +67,7 @@
 
 @media (width: 1024px) {
   .Blog{
-    margin: 0 24px;
+    /* margin: 0 24px; */
   }
 }
 

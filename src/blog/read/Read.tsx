@@ -12,7 +12,7 @@ function Read (props: Props) {
     return (
         <div className='read'>
             <div className='heading'>
-                <p className='title'>{props.post.title}</p>
+                <h1 className='title'>{props.post.title}</h1>
                 <p className='date'>{moment(props.post.date).format('MMMM Do YYYY')}</p>
             </div>
             <p className='subtitle'>{props.post.subtitle}</p>

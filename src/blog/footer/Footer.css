@@ -6,15 +6,11 @@ footer {
 }
 
 .footer {
-    /* height: 72px; */
     border-top: 2px solid #000000;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    /* position: absolute; */
-    /* bottom: 0; */
-    /* width: 100% */
 }
 
 .footer a {

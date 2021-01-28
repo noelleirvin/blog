@@ -1,33 +1,27 @@
-/*TODO Responsive Styling*/
 .read {
-    /* border-bottom: 2px solid #847D7D; */
+    width: 90%;
+    margin: 0 auto;
+    padding: 66px 0;
 }
 
 .read .heading {
-  /* display: flex; */
-  /* flex-direction: row; */
-  /* justify-content: space-between; */
-  /* flex-wrap: wrap; */
   position: relative;
 }
 
 .read .title {
     font-size: 56px;
     margin: 0;
-    /* line-height: 72px; */
     font-weight: 300;
 }
 
 .read .date {
-    font-size: 14px;
-    margin: 0;
+    font-size: 18px;
+    margin-bottom: 20px;
 }
 
 .read .subtitle {
-    font-size: 24px;
-    /* font-weight: 700; */
-    margin: 10px 0 0 0 ;
-    /* font-weight: 300; */
+    font-size: 20px;
+    margin: 20px 0 50px 0 ;
 }
 
 .read .body {
@@ -51,40 +45,44 @@
 
 .read .body h2 {
     font-size: 32px;
-    font-weight: 575;
+    font-weight: 500;
     margin-bottom: -10px;
-    margin-top: 60px;
+    margin-top: 30px;
 }
 
 .read .body h3 {
     font-size: 24px;
-    font-weight: 575;
+    font-weight: 500;
     margin-bottom: -10px;
     margin-top: 30px;
 }
 
 .read .body h4 {
     font-size: 20px;
-    font-weight: 575;
+    font-weight: 500;
     margin-bottom: -10px;
     margin-top: 30px;
 }
 
+@media(max-width: 500px) {
+    .mobileHeading {
+        /* height: 80vh; */
+        display: block;
+        padding-bottom: 1px;
+    }
+    .read .subtitle {
+        margin-top: 5vh;
+    }
+}
+
 @media (min-width: 1024px) {
     .read {
-        /* border-left: 1.5px solid #847D7D; */
-        width: 75%;
+        width: 60%;
         min-height: 500px;
-        /* padding-left: 40px; */
-        padding: 66px 10% 66px 5%;
-        border-bottom: 0;
+        padding: 66px 10% 66px 0;
     }
     .read .heading {
         flex-wrap: nowrap;
-    }
-    .read .title:first-line {
-        /* line-height: 48px; */
-        /* width: 50%; */
     }
     .read .title:before {
         content:'';
@@ -94,15 +92,12 @@
     }
     .read .date {
         font-size: 16px;
-        /* min-width: 150px; */
         position: absolute;
         top: 0;
         right: 0;
-        /* float: right; */
-        /* flex-wrap: nowrap; */
     }
     .read .subtitle {
-        margin: 10px 0 30px 0;
+        margin: 10px 0 50px 0;
     }
     .read .body {
         margin-bottom: 0;

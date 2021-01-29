@@ -5,6 +5,7 @@ import { Posts } from './posts/Posts';
 import { BrowserRouter as Router, Switch, Route, Redirect } from 'react-router-dom';
 import { Read } from './read/Read';
 import { Header } from './header/Header';
+import { Footer } from './footer/Footer';
 
 interface Props {
   posts: PostType[]
@@ -27,6 +28,7 @@ class Blog extends React.Component<Props, {}>  {
               <Route key="Redirect" render={props => <Redirect to="/"/>}/>
             </Switch>
           </div>
+          <Footer />
         </div>
       </Router>
     );

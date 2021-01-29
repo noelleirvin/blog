@@ -5,12 +5,6 @@ header {
     align-items: center;
 }
 
-.header-logo {
-    font-family: "Playfair Display", sans-serif;
-    font-size: 36px;
-    padding-right: 8px;
-}
-
 .header-home a {
     text-decoration: none;
     color: #000000;
@@ -37,11 +31,5 @@ header {
     .header-title {
         font-size: 28px;
         padding-left: 12px;
-    }
-    .header-logo {
-        width: 100px;
-        font-size: 48px;
-        padding-left: 12px;
-
     }
 }

@@ -1,20 +1,20 @@
 import React from 'react';
-import './Header.css';
+import './Footer.css';
 import { Link } from 'react-router-dom';
 
-class Header extends React.Component<{}, {}> {
+class Footer extends React.Component<{}, {}> {
     render() {
         return (
-            <header>
-                <div className="header-home">
+            <footer>
+                <div className="footer">
                     <Link to="/">
                         <span className="logo">TGE</span>
-                        <span className="header-title">This Good Endeavor</span>
                     </Link>
+                    <p className="copyright">Mitchell Irvin 2019</p>
                 </div>
-            </header>
+            </footer>
         )
     }
 }
 
-export { Header };
+export { Footer };

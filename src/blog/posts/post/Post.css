@@ -1,22 +1,40 @@
 .post {
-    margin-bottom: 20px;
+    padding: 8% 2% 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    cursor: pointer;
+}
+.link {
+    text-decoration: none;
+    color: #000000;
+}
+
+@media(hover: hover) {
+    .post:hover {
+        box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.25);
+        padding: 8% 3% 10%;
+    }
 }
 
 .post .title {
     text-decoration: none;
-    color: #847D7D;
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 700;
-    font-size: 18px;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
 }
 
 .post .subtitle {
     font-size: 14px;
+    font-weight: 300;
+    padding-top: 2px;
+    line-height: 18px;
 }
 
 .post .date {
     font-size: 14px;
-    color: #847D7D;
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 700;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    padding-bottom: 6px;
 }

@@ -15,6 +15,7 @@ function Posts(props: Props) {
 
     return (
         <div className='posts'>
+            <div className='postsHeading'>What to Read Next</div>
             {postElements}
         </div>
     );

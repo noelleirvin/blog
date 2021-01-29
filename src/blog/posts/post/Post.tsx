@@ -8,13 +8,19 @@ interface Props {
     post: PostType;
 }
 
+const scrollToTop = () => {
+    window.scrollTo(0,0);
+}
+
 function Post (props: Props) {
     return (
-        <div className='post'>
-            <Link to={props.post.url} className='title'>{props.post.title}</Link>
-            <div className="subtitle">{props.post.subtitle}</div>
-            <div className='date'>{moment(props.post.date).format('MMMM Do YYYY')}</div>
-        </div>
+        <Link to={props.post.url} className="link" onClick={scrollToTop}>
+            <div className='post'>
+                <div className='date'>{moment(props.post.date).format('MMMM Do YYYY')}</div>
+                <div className='title'>{props.post.title}</div>
+                <div className="subtitle">{props.post.subtitle}</div>
+            </div>
+        </Link>
     );
 }
 

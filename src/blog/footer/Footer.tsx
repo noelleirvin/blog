@@ -7,10 +7,7 @@ class Footer extends React.Component<{}, {}> {
         return (
             <footer>
                 <div className="footer">
-                    <Link to="/">
-                        <span className="logo">TGE</span>
-                    </Link>
-                    <p className="copyright">Mitchell Irvin 2019</p>
+                    <p className="copyright">Copyright © 2019 Mitchell Irvin</p>
                 </div>
             </footer>
         )

@@ -13,6 +13,7 @@ interface AppState {
 class App extends React.Component<{}, AppState> {
 
     private markdownToHtmlConverter = new Showdown.Converter();
+
     constructor(props: {}) {
         super(props);
         this.state = {
@@ -94,13 +95,9 @@ class App extends React.Component<{}, AppState> {
         return prefix + post.url + suffix;
     }
 
-
     render() {
-        // const isLoading: boolean = this.state.posts[this.state.posts.length -1].body !== "";
-
         return (
             <div className="App">
-                {/* { isLoading ? <div>Loading</div> : <Blog posts={this.state.posts}/>} */}
                 <Blog posts={this.state.posts}/>
             </div>
         );

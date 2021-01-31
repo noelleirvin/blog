@@ -11,9 +11,14 @@
 }
 
 @media(hover: hover) {
-    .post:hover {
-        box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.25);
-        padding: 8% 3% 10%;
+    .post:hover .title {
+        font-weight: 500;
+    }
+    .post:hover .date {
+        font-weight: 400;
+    }
+    .post:hover .subtitle {
+        font-weight: 400;
     }
 }
 

@@ -19,6 +19,13 @@ class App extends React.Component<{}, AppState> {
         this.state = {
             posts: [
                 {
+                    title: 'On Stewardship',
+                    subtitle: 'Lorem ipsum delor...', 
+                    date: new Date('Jul 11, 2021'),
+                    body: "",
+                    url: '/on-stewardship'
+                },
+                {
                     title: 'The Father\'s Guidance',
                     subtitle: 'God is our Father. How, then, does he guide us as his children?', 
                     date: new Date('May 30, 2020'),

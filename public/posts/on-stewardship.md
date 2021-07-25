@@ -33,13 +33,33 @@ In answering the Question with scripture, we will often find ourselves met with 
 ### The Temptation of Money
 > "No one can serve two masters, for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve God and money." [Matthew 6:24](https://biblehub.com/esv/matthew/6.htm)
 
-> "But those who desire to be rich fall into temptation, into a snare, into many senseless and harmful desires that plunge people into ruin and destruction. For the love of money is a root of all kinds of evils. It is through this craving that some have wandered away from the faith and pierced themselves with many pangs." [1 Timothy 6:9-10](https://biblehub.com/esv/1_timothy/6.htm)
+Jesus uses the word "master" to describe the role that God, or money, can play. Consider the implications. A master has absolute authority over their servant. The servant is entirely submitted to their master's will, and to it subjects all other desires and priorities. In making this comparison between God and money, Jesus is clearly warning against allowing for money to assume a role in our lives that only God should take. 
 
-By accumulating wealth, an individual can find a sense of accomplishment, pride, security, and self-worth. For a Christian this is subtly, but incredibly, dangerous. To allow anything to take God's place as your providence, security, and identity is perhaps the most insidious of evils. 
+This is what the bible calls an idol. Something or someone that assumes a role in your life which ought to be filled by God. Jesus knows that the human heart is tempted to look at money, and derive from it a sense of self-value or security. For a Christian this is incredibly dangerous. To allow anything to take God's place as your providence, security, and identity is perhaps the most insidious of evils. This is the temptation of money, and it goes by another name, greed.
 
-This is what the bible calls an idol. Something or someone that assumes a role in your life which ought to be filled by God. Do you garner a greater sense of security from your net worth than from knowing God's sovereignty, power, and goodness? Do you derive your self-worth more from your socioeconomic status than from Christ calling you, by name, into a relationship with himself? 
+Jesus' teaching on greed in Luke chapter 12 is perhaps one of the most enlightening passages on the subject.
 
-The simplest way to reveal the answers to these questions is to look at your use of money ([Matthew 6:21](https://biblehub.com/james/1-17.htm)). Is it difficult to think about giving a full tithe? Do you budget more for luxuries and comfort than for serving the lost and least? 
+> "Someone in the crowd said to him, 'Teacher, tell my brother to divide the inheritance with me.' But he said to him, 'Man, who made me a judge or arbitrator over you?' And he said to them, 'Take care, and be on your guard against all covetousness, for one’s life does not consist in the abundance of his possessions.'" [Luke 12:13-15](https://biblehub.com/esv/luke/12.htm)
+
+Jesus was teaching a crowd, and someone came up to him and said, "Teacher, tell my brother to divide the inheritance with me." To which Jesus essentially responds, "my role in this world is not to settle estate disputes." Then, immediately he warns against greed. There are a few key observations to make here.
+
+First, who is the man asking the question? In that time period, in that region, the first born son frequently inherited the entirety (or vast majority) of his father's estate. The purpose of this law was to ensure the continued prosperity of the family, through the first born son. The man asking Jesus the question must be a younger brother, whose older brother has just inherited (or will, shortly) his father's estate. If he is coming to Jesus with this request, it's reasonably safe to assume he has already (fruitlessly) made this request of his brother.
+
+Jesus denies his request, and then warns against greed, "Take care, and be on your guard against all covetousness, for one’s life does not consist in the abundance of his possessions." Why? Because he's identified the problem is not truly the estate, but is within the heart of this man (and likely his family). Greed.
+
+Second, in his warning against greed, Jesus tells them to "Take care" and "be on your guard". This language indicates a necessary vigilance, a watchfulness. Why? Because he knows that greed is sneaky, and very often the human heart is unaware of its infestation. This characteristic of greed is somewhat unique. Pride, lust, envy, gluttony, wrath, and sloth do not hide themselves from their host in the same way greed does.
+
+- All covetousness, the parable and examples Jesus gives
+- how it manifests for the wealthy
+- how it manifests for the poor
+
+ 
+
+# Do you garner a greater sense of security from your net worth than from knowing God's sovereignty, power, and goodness? Do you derive your self-worth more from your socioeconomic status than from Christ calling you, by name, into a relationship with himself? 
+
+# The simplest way to reveal the answers to these questions is to look at your use of money ([Matthew 6:21](https://biblehub.com/james/1-17.htm)). Is it difficult to think about giving a full tithe? Do you budget more for luxuries and comfort than for serving the lost and least? 
+
+
 
 ### The Goodness of Money
 What is the Christian's purpose? When the Pharisees asked Jesus what the greatest commandment of the Law was, he replied "You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment. And a second is like it, You shall love your neighbor as yourself." Put simply, love God and love people. 
@@ -48,7 +68,7 @@ Money can be used in tremendous ways to accomplish the Christian's purpose. Mone
 
 Another crucial part of the Christian's purpose (as it demonstrates love for God and love for people) is the great commission Jesus offers his disciples before his ascension, "Go therefore, and make disciples of all nations...". American culture, and the culture of the world, views money chiefly as a means for acquisition of power, pride, and possessions. It is considered normal (and ethically permissed) to use the overwhelming majority of money you earn for your own desires and means. A biblically-founded perspective on money is so antithetical to the world's, that it perplexes the average person to see a Christian using money the way God intends us to. 
 
-How better create opportunities for meaningful conversation about the ways in which God has changed your heart, than to counter the culture when it comes to money? When you demonstrate by your actions that money has no hold on your heart (in the way it does for most), you create tremendous space in peoples' hearts and minds for hearing _why_ it has no hold (and therefore, hearing the Gospel). There are few more powerful ways to share the character of God than by allowing others to observe your biblical use of money (if the _reason_ for allowing others to observe is not to [bolster your own self-righteousness](https://biblehub.com/matthew/6-3.htm)). So, first, to know and live biblical stewardship is a wonderful aid in the Christian's endeavor to share Christ. 
+How better create opportunities for meaningful conversation about the ways in which God has changed your heart, than to counter the culture when it comes to money? When you demonstrate by your actions that money has no hold on your heart (in the way it does for most), you create tremendous space in peoples' hearts and minds for hearing _why_ it has no hold (and therefore, hearing the Gospel). There are few more powerful ways to share the character of God than by allowing others to observe your biblical use of money (if the _reason_ for allowing others to observe is not to [bolster your own self-righteousness](https://biblehub.com/matthew/6-3.htm)).
 
 Money presents a great temptation, but presents an equally great opportunity for good.
 
@@ -58,7 +78,7 @@ With the biblical principles in mind, now we must look at how to apply them. Wha
 
 What else could you do with that bill? You might think, "I want to buy a house someday", or "I'd like buy a new car soon", or "I ought to keep this in case my car breaks down", and decide to go put that money in the bank. Similarly, you might think, "I want to retire comfortably", or "I want to build wealth", and decide to go invest it. In either case, you're deferring the actual consumption of the money to a later date. Namely, saving. 
 
-You might be a rather charitable chap, and decide instead to take your one hundred dollars and donate it to the local soup kitchen, or animal shelter, or youth center. Or perhaps you know a friend or family member who could really use a particular item, and you decide to put your money toward that gift. Both ideas are instances of the final use of money, in the abstract. Namely, giving.
+You might be rather charitable, and decide instead to take your one hundred dollars and donate it to the local soup kitchen, or animal shelter, or youth center. Or perhaps you know a friend or family member who could really use a particular item, and you decide to put your money toward that gift. Both ideas are instances of the final use of money, in the abstract. Namely, giving.
 
 There are thousands of ways to consume money, but, ultimately, all of those ways can be rolled up into one (or more) of these three categories. Moreover, it is far more simple (though far from simple) to answer the Question when we consider these three uses individually. 
 

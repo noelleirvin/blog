@@ -20,7 +20,7 @@ class App extends React.Component<{}, AppState> {
             posts: [
                 {
                     title: 'On Stewardship',
-                    subtitle: 'Lorem ipsum delor...', 
+                    subtitle: 'The biblical truth about money, and how it shapes our lives as Christians.', 
                     date: new Date('Jul 11, 2021'),
                     body: "",
                     url: '/on-stewardship'
